@@ -9,7 +9,8 @@ First, I applied unsupervised learning techniques to explore the data:
 
 - Using K-Means and Hierarchical clustering, I grouped the texts into two clusters.
 
-- The visualization shows some grouping of texts but without using the true labels for training.
+- The visualization shows some grouping of texts but without using the true labels for training. When compared to the real labes, we can see that it's not accurate
+
 
 After that, I applied supervised learning methods:
 
